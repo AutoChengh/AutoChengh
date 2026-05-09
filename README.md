@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Hao Cheng
 
-<!--
-**AutoChengh/AutoChengh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Ph.D. student at the School of Vehicle and Mobility, Tsinghua University.
 
-Here are some ideas to get you started:
+My research focuses on **road safety**, **surrogate safety measures**, and **automated driving safety evaluation**. I am particularly interested in developing physically interpretable risk measures for complex road-user interactions, including vehicle--powered-two-wheeler conflicts and safety-critical driving scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Road safety and traffic conflict analysis
+- Surrogate safety measures
+- Vehicle--powered-two-wheeler interaction risk
+- Automated driving safety evaluation
+- Safety-critical scenario generation and testing
+
+## 📌 Selected Projects
+
+- [Generalized Emergency Index](https://github.com/AutoChengh/generalized-emergency-index)  
+  A fine-grained risk measure for vehicle--powered-two-wheeler interactions.
+
+- [Evasive Acceleration](https://github.com/AutoChengh/evasive-acceleration)  
+  A two-dimensional paradigm for instantaneous driving risk quantification.
+
+- [Modified Emergency Index](https://github.com/AutoChengh/MEI)  
+  A criticality metric for autonomous driving in lateral conflict scenarios.
+
+- [Emergency Index](https://github.com/AutoChengh/EmergencyIndex)  
+  A two-dimensional surrogate safety measure considering vehicles' interaction depth.
+
+## 📫 Contact
+
+- Email: chengh22@mails.tsinghua.edu.cn
+- Google Scholar: https://scholar.google.com/citations?user=kBH-iGsAAAAJ&hl=zh-CN&oi=sra
+- ORCID: https://orcid.org/0009-0009-9401-2937
