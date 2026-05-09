@@ -14,11 +14,11 @@ My research focuses on **road safety**, **surrogate safety measures**, and **aut
 
 ## 📌 Selected Projects
 
-- [Generalized Emergency Index](https://github.com/AutoChengh/generalized-emergency-index)  
-  A fine-grained risk measure for vehicle--powered-two-wheeler interactions.
-
 - [Evasive Acceleration](https://github.com/AutoChengh/evasive-acceleration)  
   A two-dimensional paradigm for instantaneous driving risk quantification.
+  
+- [Generalized Emergency Index](https://github.com/AutoChengh/generalized-emergency-index)  
+  A fine-grained risk measure for vehicle--powered-two-wheeler interactions.
 
 - [Modified Emergency Index](https://github.com/AutoChengh/MEI)  
   A criticality metric for autonomous driving in lateral conflict scenarios.
