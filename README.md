@@ -2,7 +2,7 @@
 
 I am a Ph.D. student at the School of Vehicle and Mobility, Tsinghua University, advised by Prof. Sifa Zheng.
 
-My research focuses on **road safety**, **surrogate safety measures**, and **automated driving safety evaluation**. I am particularly interested in developing physically interpretable risk measures for complex road-user interactions, with applications in high-risk interaction analysis, safety-critical scenario identification, and automated driving testing.
+My research focuses on **road safety**, **surrogate safety measures**, and **automated driving evaluation**. I am particularly interested in developing physically interpretable risk measures for complex road-user interactions, with applications in high-risk interaction analysis, safety-critical scenario identification, and automated driving testing.
 
 ## 🔬 Research Interests
 
