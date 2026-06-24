@@ -16,15 +16,16 @@ My research focuses on **road safety**, **surrogate safety measures**, and **aut
 
 - [Evasive Acceleration (EA)](https://github.com/AutoChengh/evasive-acceleration)  
   A two-dimensional paradigm for instantaneous driving risk quantification.
+
+- [Emergency Index (EI)](https://github.com/AutoChengh/EmergencyIndex)  
+  A two-dimensional surrogate safety measure considering vehicles' interaction depth.
+
+- [Modified-Emergency Index (MEI)](https://github.com/AutoChengh/MEI)  
+  A criticality metric for autonomous driving in lateral conflict scenarios.
   
 - [Generalized Emergency Index (GEI)](https://github.com/AutoChengh/generalized-emergency-index)  
   A fine-grained risk measure for vehicle–powered-two-wheeler interactions.
 
-- [Modified-Emergency Index (MEI)](https://github.com/AutoChengh/MEI)  
-  A criticality metric for autonomous driving in lateral conflict scenarios.
-
-- [Emergency Index (EI)](https://github.com/AutoChengh/EmergencyIndex)  
-  A two-dimensional surrogate safety measure considering vehicles' interaction depth.
 
 ## 📫 Contact
 
